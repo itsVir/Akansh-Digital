@@ -52,7 +52,7 @@
 					<h2>Team</h2>
 					<div class="thm-breadcrumb__box">
 						<ul class="thm-breadcrumb">
-							<li><a href="index.html">Home</a></li>
+							<li><a href="index.php">Home</a></li>
 							<li><span>::</span></li>
 							<li>Team</li>
 						</ul>
@@ -77,7 +77,7 @@
 						</div>
 					</div>
 					<div class="team-one__btn-box">
-						<a href="team.html" class="team-one__btn thm-btn">View More Members</a>
+						<a href="team.php" class="team-one__btn thm-btn">View More Members</a>
 					</div>
 				</div>
 				<div class="team-one__bottom">
