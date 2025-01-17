@@ -9,7 +9,7 @@
 							<a href="index.php"><img src="images/resource/footer-logo3.png" alt=""></a>
 						</div>
 						<p class="footer-widget__about-text">At Akansh Digital, we offer a wide range of digital solutions tailored to your needs. With a dedicated support team and innovative thinkers.</p>
-						
+
 					</div>
 				</div>
 
@@ -59,29 +59,28 @@
 						</ul>
 					</div>
 				</div>
-
 				<div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
-								<div class="footer-widget-two__column footer-widget-two__link">
-									<div class="footer-widget-two__title-box">
-										<h3 class="footer-widget-two__title">Site Map</h3>
-									</div>
-									<div class="footer-widget-two__link-box">
-										<ul class="footer-widget-two__link-list list-unstyled">
-											<li><a href="about.php"> <span class="icon-play-button"></span> About</a>
-											</li>
-											<li><a href="team.php"> <span class="icon-play-button"></span> Meet the
-													Team</a></li>
-											<li><a href="services.php"> <span class="icon-play-button"></span> Our
-													Services</a></li>
-											<li><a href="pricing.php"> <span class="icon-play-button"></span> Pricing
-													</a></li>
-											
-											<li><a href="contact.php"> <span class="icon-play-button"></span>
-													Contact</a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
+					<div class="footer-widget-two__column footer-widget-two__link">
+						<div class="footer-widget-two__title-box">
+							<h3 class="footer-widget-two__title">Site Map</h3>
+						</div>
+						<div class="footer-widget-two__link-box">
+							<ul class="footer-widget-two__link-list list-unstyled">
+								<li><a href="about.php"> <span class="icon-play-button"></span> About</a>
+								</li>
+								<li><a href="team.php"> <span class="icon-play-button"></span> Meet the
+										Team</a></li>
+								<li><a href="services.php"> <span class="icon-play-button"></span> Our
+										Services</a></li>
+								<li><a href="pricing.php"> <span class="icon-play-button"></span> Pricing
+									</a></li>
+
+								<li><a href="contact.php"> <span class="icon-play-button"></span>
+										Contact</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
 
 
 				<div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
