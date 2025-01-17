@@ -137,9 +137,7 @@
 									<h3>High Standard</h3>
 									<p>Grow brands through bold and strategic creative, focused on searching new ways to
 										showcase user content on digital support and envisioning the future arts.</p>
-									<div class="about-one__btn-box">
-										<a href="#" class="about-one__btn thm-btn">View All Our News</a>
-									</div>
+									
 								</div>
 								<div class="about-one__standard-img">
 									<img src="images/resource/about-one-standard-img.jpg" alt="">
@@ -149,7 +147,7 @@
 					</div>
 				</div>
 				<div class="about-one__bottom">
-					<p>Contact Us or Send An <span>Email</span> to info<a href="mailto:@agency.com">@agency.com</a></p>
+				<p><a href="contact.php">Contact Us</a> or Send An <span>Email</span> to info <a href="mailto:Akanshdigital21@gmail.com">Akanshdigital21@gmail.com</a></p>
 				</div>
 			</div>
 		</section>
@@ -230,7 +228,7 @@
 									<img src="images/resource/about-two-img-2.jpg" alt="">
 								</div>
 								<div class="about-two__experience">
-									<h3>13</h3>
+									<h3>3</h3>
 									<p class="about-two__experience-text">years <br> <span>experience</span></p>
 								</div>
 							</div>
