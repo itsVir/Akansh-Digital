@@ -79,8 +79,9 @@
 							</div>
 							<div class="content">
 								<h3>Office Address</h3>
-								<p>140, Suyash Solitaire,<br> Near Podar School,<br> Kudasan, Gandhinagar.</p>
-							</div>
+								<p class="footer-widget__contact-text list-unstyled"><a href="https://maps.app.goo.gl/mXJE2KD3bEuDZd4C8" target="_blank">
+											<p>140, Suyash Solitaire,<br> Near Podar School,<br> Kudasan, Gandhinagar.</p>
+										</a></p>							</div>
 						</li>
 						<li>
 							<div class="icon">
@@ -88,7 +89,7 @@
 							</div>
 							<div class="content">
 								<h3>Phone No.</h3>
-								<p><a href="tel:+922078237766"> +91 79900 98573</a></p>
+								<p><a href="tel:7990098573"> +91 79900 98573</a></p>
 							</div>
 						</li>
 						<li>
