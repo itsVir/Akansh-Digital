@@ -1,0 +1,27 @@
+<script>
+    function getQueryParam(param) {
+        const urlParams = new URLSearchParams(window.location.search);
+        return urlParams.get(param);
+    }
+
+    const selectedPlan = getQueryParam('plan');
+    if (selectedPlan && window.location.hash === '#contact-form') {
+        let subjectText = '';
+        
+        switch (selectedPlan) {
+            case 'basic':
+                subjectText = 'Want to buy Basic plan';
+                break;
+            case 'standard':
+                subjectText = 'Want to buy Standard plan';
+                break;
+            case 'premium':
+                subjectText = 'Want to buy Premium plan';
+                break;
+            default:
+                subjectText = 'Interested in a plan';
+        }
+
+        document.querySelector('input[name="subject"]').value = subjectText;
+    }
+</script>
