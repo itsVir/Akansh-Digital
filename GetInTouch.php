@@ -13,7 +13,7 @@
 							<img src="images/resource/GetInTouch.jpg" alt="">
 						</div>
 						<div class="get-in-touch__top-btn">
-							<a href="#"><span class="icon-bottom-right"></span></a>
+							<a href="contact.php"><span class="icon-bottom-right"></span></a>
 						</div>
 					</div>
 					<div class="get-in-touch__bottom">

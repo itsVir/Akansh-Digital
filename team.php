@@ -135,7 +135,7 @@
 							<div class="team-one__single">
 								<div class="team-one__img-box">
 									<div class="team-one__img">
-										<img src="images/team/team-1-4.jpg" alt="">
+										<img src="images/team/team-4.jpg" alt="">
 									</div>
 									
 								</div>
